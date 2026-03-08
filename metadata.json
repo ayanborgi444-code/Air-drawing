@@ -1,0 +1,5 @@
+{
+  "name": "Air Hand Drawer",
+  "description": "A professional computer vision application for drawing in the air using hand gestures. Includes a live web demo and a downloadable Python project.",
+  "requestFramePermissions": ["camera"]
+}
